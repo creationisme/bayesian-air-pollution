@@ -1,1 +1,5 @@
 # bayesian-air-pollution
+
+Air quality monitoring and prediction play a vital role in public health management, environmental policy, and urban planning across India’s rapidly growing metropolitan regions. The Air Quality Index (AQI) provides a standardized measure of air pollution levels and their health implications. Delhi, in particular has become among the worst highly urban regions to live in according to AQI levels. 
+
+Traditional time series models and frameworks face limitations in quantifying uncertainty, capturing complex temporal dependencies, and integrating prior knowledge of pollution dynamics. Bayesian methods offer a principled alternative, enabling explicit uncertainty modeling, incorporation of domain-specific priors, and probabilistic forecasting with credible intervals. This project employs Bayesian time series inference using Markov Chain Monte Carlo (MCMC) techniques to model and predict AQI trends in these cities, enhancing interpretability and decision-making compared to classical approaches.
